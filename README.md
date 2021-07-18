@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ved30
-- 👀 I’m interested in Developmet
+- 👀 I’m interested in Development and desigining new softwares
 - 🌱 I’m currently learning Game development based on blockchain
 - 💞️ I’m looking to collaborate on blockchain tech
 - 📫 How to reach me vedpaw3012@outlook.com
