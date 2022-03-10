@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ved30
 - 👀 I’m interested in Product Management and Analyst Roles
 - 🌱 I’m currently learning Product management
-- 💞️ I’m looking to collaborate on blockchain tech
 - 📫 How to reach me vedpaw3012@outlook.com
 
 <!---
